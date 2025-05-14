@@ -1,18 +1,3 @@
-<h1 align="left">👋</h1>
-
-###
-
-<p align="left">My name is Luís Gustavo</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚Software Engineering Student<br>🇧🇷</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
