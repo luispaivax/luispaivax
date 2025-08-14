@@ -26,7 +26,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://i.postimg.cc/mD3ky8jN/my-image.png"  />
 </div>
 
