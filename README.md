@@ -39,7 +39,7 @@
 
 ###
 
-<br clear="both">
+
 
 <svg width="200" height="50" viewBox="0 0 200 50" xmlns="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg">
   <text x="0" y="35" font-size="30" fill="none" stroke="black" stroke-width="1" stroke-dasharray="200" stroke-dashoffset="200">
