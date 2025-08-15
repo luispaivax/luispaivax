@@ -39,8 +39,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/luispaivax/luispaivax/output/snake.gif" alt="Snake animation" />
+![snake gif](https://github.com/luispaivax/luispaivax/blob/output/github-contribution-grid-snake.svg)
 
 
