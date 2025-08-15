@@ -41,5 +41,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg">
+  <text x="0" y="35" font-size="30" fill="none" stroke="black" stroke-width="1" stroke-dasharray="200" stroke-dashoffset="200">
+    GitHub Snake
+    <animate attributeName="stroke-dashoffset" from="200" to="0" dur="2s" fill="freeze" />
+  </text>
+</svg>
+
 
