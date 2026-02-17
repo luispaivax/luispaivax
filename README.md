@@ -5,7 +5,6 @@
 <div align="center">
   <a href="https://github.com/Desatoff">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luispaivax&theme=nord_dark" height="150" alt="summary card"/>
-    <img src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luispaivax&theme=nord_dark&utcOffset=8" height="150" alt="productive time" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luispaivax&theme=nord_dark" height="150" alt="laguage by repo" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luispaivax&theme=nord_dark" height="150" alt="language by commit" />
   </a>
